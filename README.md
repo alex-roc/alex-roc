@@ -14,10 +14,18 @@ I develop software and data science projects for social and environmental purpos
 - [Arbu](https://arbu.app/): Arbu is an application designed for the care and monitoring of urban trees
 - [Mi Huella](https://mihuella.app/): Personal carbon footprint calculator based on your energy consumption, diet and transportation.
 - [Simi](https://simiquechua.app/): Simi is a web application that allows you to learn Quechua interactively
+- [Thani](https://thaniconecta.app/): An app for mental health care
+- [Ciudatos Lab](https://ciudatoslab.org/): A platform for open data, visualizations an modeling for urban issues in Bolivia
+- [PAP App](https://play.google.com/store/apps/details?id=org.labtecnosocial.pap_movil): A mobile app for the monitoring cervical cancer in Bolivia
+- [Mujeres Constructoras](https://play.google.com/store/apps/details?id=org.latecnosocial.mujeres_constructoras): Mobile app to connect employers and female builders
   
 
-## My main Data Science projects
-
+## My main Data Science and AI projects
+- [Dashboard. Presence of heavy metals in the Pilcomayo basin](https://labtecnosocial.shinyapps.io/dashboard-pilcomayo/)
+- [Dashboard: 20 years of fires in the Bolivian Amazon](https://labtecnosocial.shinyapps.io/incendios-bol/)
+- [A digital exploration of color in the history of Bolivian painting](https://labtecnosocial.org/exploracion-digital-del-color-en-la-historia-de-la-pintura-boliviana/)
+- [Interactive graph of a hashtag in Twitter](https://labtecnosocial.org/grafo-interactivo-de-un-hashtag/)
+- [The vocabulary of power. Content analysis of the 2020 government programs](https://labtecnosocial.org/el-vocabulario-del-poder/)
 ## Skills and Tools
 
 ### Web frontend
