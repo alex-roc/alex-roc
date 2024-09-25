@@ -1,8 +1,8 @@
 # Hi 👋🏼, my name is Alex Ojeda Copa
 
-## Sociologist and programmer with over 10 years of practical experience
+## Programmer and data scientist with over 10 years of practical experience
 
-I am a sociologist by training but a programmer by vocation. I develop software for the common good and data science projects on social and environmental issues.
+I develop software and data science projects for social and environmental purposes
 
 *   🌍  I'm based in [Cochabamba, Bolivia](https://es.wikipedia.org/wiki/Cochabamba)
 *   🚀  I'm currently working on [Lab TecnoSocial](http://https://labtecnosocial.org/)
