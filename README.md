@@ -10,22 +10,40 @@ I develop software and data science projects for social and environmental purpos
 *   ⚡  #tech4good
 
 ## My main Software Projects
-- [BiciDatos](http://bicidatos.org/): Citizen monitoring of data on cycling mobility in Bolivia
-- [Arbu](https://arbu.app/): Arbu is an application designed for the care and monitoring of urban trees
+- [BiciDatos](http://bicidatos.org/): Web and mobile app for citizen monitoring of data on cycling mobility in Bolivia
+- [Arbu](https://arbu.app/): Web and mobile app for monitoring of urban trees
 - [Mi Huella](https://mihuella.app/): Personal carbon footprint calculator based on your energy consumption, diet and transportation.
-- [Simi](https://simiquechua.app/): Simi is a web application that allows you to learn Quechua interactively
-- [Thani](https://thaniconecta.app/): An app for mental health care
-- [Ciudatos Lab](https://ciudatoslab.org/): A platform for open data, visualizations an modeling for urban issues in Bolivia
-- [PAP App](https://play.google.com/store/apps/details?id=org.labtecnosocial.pap_movil): A mobile app for the monitoring cervical cancer in Bolivia
-- [Mujeres Constructoras](https://play.google.com/store/apps/details?id=org.latecnosocial.mujeres_constructoras): Mobile app to connect employers and female builders
-  
+- [Simi](https://simiquechua.app/): Web and mobile app for learning Quechua interactively
+- [Thani](https://thaniconecta.app/): Web and mobile app for mental health care
+- [Ciudatos Lab](https://ciudatoslab.org/): A web platform for open data, visualizations an modeling for urban issues in Bolivia
+- [Contratos Abiertos](https://contratosabiertos-bo.org/): A web platform for open contracting data in Bolivia
+- [PAP App](https://play.google.com/store/apps/details?id=org.labtecnosocial.pap_movil): Web and mobile app for the monitoring cervical cancer in Bolivia
+- [Mujeres Constructoras](https://play.google.com/store/apps/details?id=org.latecnosocial.mujeres_constructoras): Web and mobile app to connect employers and female builders
+- [Estudios digitales en Bolivia](https://labtecnosocial.org/app-bibdigital/): Bibliographic explorer
+- [Investigación digital](https://investigacion-digital.org/): Educational platform on digital tools for research
+- [Diagrama Social](https://diagramasocial.org/): Web platform for the dissemination of social sciences
 
 ## My main Data Science and AI projects
-- [Dashboard. Presence of heavy metals in the Pilcomayo basin](https://labtecnosocial.shinyapps.io/dashboard-pilcomayo/)
+- [Species identification with Artificial Intelligence in Arbu](https://play.google.com/store/apps/details?id=org.labtecnosocial.arbu.android&hl=es_BO)
+- [Map of environmental liabilities in Bolivia](https://www.connectas.org/especiales/bolivia-pais-de-la-tierra-envenenada/)
+- [Dashboard: Presence of heavy metals in the Pilcomayo basin](https://labtecnosocial.shinyapps.io/dashboard-pilcomayo/)
 - [Dashboard: 20 years of fires in the Bolivian Amazon](https://labtecnosocial.shinyapps.io/incendios-bol/)
+- [Dashboard: El Alto school infrastructure](https://labtecnosocial.org/dashboard-infraestructura-escolar-de-el-alto/)
+- [Map of sounds of Cochabamba](https://lab-tecnosocial.github.io/mapa-cocha-sonidos/)
+- [Map of indigenous place names in Cochabamba](https://lab-tecnosocial.github.io/mapa-cocha-toponimos/)
+- [Map of old photographs of Cochabamba restored with artificial intelligence](https://labtecnosocial.org/app-cocha-antigua/)
 - [A digital exploration of color in the history of Bolivian painting](https://labtecnosocial.org/exploracion-digital-del-color-en-la-historia-de-la-pintura-boliviana/)
-- [Interactive graph of a hashtag in Twitter](https://labtecnosocial.org/grafo-interactivo-de-un-hashtag/)
+- [Internet speed map in Bolivia](https://labtecnosocial.org/mapa-de-velocidad-de-internet-en-bolivia/)
+- [An approach to the cycle path network in Bolivian cities](https://labtecnosocial.org/una-aproximacion-a-la-red-de-ciclovias-en-las-ciudades-bolivianas/)
+- [Digital tool: recovers data from SICOES (open contracting data)](https://labtecnosocial.org/recupera-datos-de-sicoes/)
+- [ParticipaBOt: Results of a digital citizen participation experiment](https://labtecnosocial.org/participabot-resultados-de-un-experimento/)
+- [Open Data on Services in Quarantine](https://labtecnosocial.org/datos-abiertos-sobre-los-servicios-en-la-cuarentena/)
+- [Public health, technology and participation
+A brief comparison of the political measures of 15 countries facing Covid-19](https://labtecnosocial.org/salud-publica-tecnologia-y-participacion/)
+- [Simulation of coronavirus diffusion](https://labtecnosocial.org/simulacion-de-difusion-de-coronavirus/)
 - [The vocabulary of power. Content analysis of the 2020 government programs](https://labtecnosocial.org/el-vocabulario-del-poder/)
+- [Interactive graph of a hashtag in Twitter](https://labtecnosocial.org/grafo-interactivo-de-un-hashtag/)
+
 ## Skills and Tools
 
 ### Web frontend
@@ -44,12 +62,18 @@ I develop software and data science projects for social and environmental purpos
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
           width="36" height="36" alt="React" /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
+    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img
+          src="https://astro.js.org/astro.png"
+          width="36" height="36" alt="Astro" /></a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
           width="36" height="36" alt="TailwindCSS" /></a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer"><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
           width="36" height="36" alt="Material UI" /></a>
+ <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"><img
+          src="https://avatars.githubusercontent.com/u/2854298?s=200&v=4"
+          width="36" height="36" alt="Leaflet" /></a>
 
 ### Mobile Dev
    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img
@@ -84,7 +108,10 @@ I develop software and data science projects for social and environmental purpos
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
             width="36" height="36" alt="Python" /></a>
- <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img
+            src="https://avatars.githubusercontent.com/u/1562726?v=4"
+            width="36" height="36" alt="D3" /></a>
+ <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg"
           width="36" height="36" alt="TensorFlow" />
   </a>
