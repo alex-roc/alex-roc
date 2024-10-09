@@ -97,6 +97,9 @@ A brief comparison of the political measures of 15 countries facing Covid-19](ht
 
 
 ### Backend and databases
+<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+</a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
             width="36" height="36" alt="NodeJS" />
@@ -156,6 +159,10 @@ a>
 </a>
 <a href="https://leafletjs.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/2854298?s=200&v=4" width="36" height="36" alt="Leaflet" />
+</a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="36" height="36" alt="scikit-learn
+" />
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg"
