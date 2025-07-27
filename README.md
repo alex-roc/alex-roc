@@ -50,6 +50,7 @@ A brief comparison of the political measures of 15 countries facing Covid-19](ht
   - Temis Bot. Legal chatbot on Bolivian legislation (coming soon)
   - [Species identification with Artificial Intelligence in Arbu](https://play.google.com/store/apps/details?id=org.labtecnosocial.arbu.android&hl=es_BO)
   - [Map of old photographs of Cochabamba restored with artificial intelligence](https://labtecnosocial.org/app-cocha-antigua/)
+  - [Chatbot to analyze and compare government programs](https://chat-progob.labtecnosocial.org/)
 
 - Simulation
   - [Simulation of coronavirus diffusion](https://labtecnosocial.org/simulacion-de-difusion-de-coronavirus/)
