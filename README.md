@@ -1,4 +1,4 @@
-# Programmer and data scientist with over 10 years of practical experience
+# Software Engineer and Data Scientist with over 10 years of practical experience
 
 I develop software and data science projects for social and environmental purposes
 
