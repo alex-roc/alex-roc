@@ -61,26 +61,28 @@ A brief comparison of the political measures of 15 countries facing Covid-19](ht
 
 ## Skills and Tools
 
+## Skills and Tools
+
 ### Web frontend
 
-[![Web frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,materialui,p5js)](https://skillicons.dev)
+![Web frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,materialui,p5js)
 
 ### Backend and databases
 
-[![Backend and databases](https://skillicons.dev/icons?i=linux,nodejs,wordpress,firebase,supabase,gcp,aws,postgres,mysql,mongodb)](https://skillicons.dev)
+![Backend and databases](https://skillicons.dev/icons?i=linux,nodejs,wordpress,firebase,supabase,gcp,aws,postgres,mysql,mongodb)
 
 ### Mobile Dev
 
-[![Mobile Dev](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
+![Mobile Dev](https://skillicons.dev/icons?i=dart,flutter)
 
 ### Data Science and Artificial Intelligence
 
-[![Data Science and Artificial Intelligence](https://skillicons.dev/icons?i=r,python,tensorflow,sklearn,d3)](https://skillicons.dev)
+![Data Science and Artificial Intelligence](https://skillicons.dev/icons?i=r,python,tensorflow,sklearn,d3)
 
 ### Other libraries and tools
 
-P5.js, D3, Leaflet, LangChain
-                      
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)](https://www.langchain.com/)
 
 ## Stats
 ### Contributions
