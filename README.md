@@ -56,113 +56,129 @@ A brief comparison of the political measures of 15 countries facing Covid-19](ht
 - Simulation
   - [Simulation of coronavirus diffusion](https://labtecnosocial.org/simulacion-de-difusion-de-coronavirus/)
   - [The Braess Paradox: More Roads Mean Better Traffic?](https://ciudatoslab.org/modelos/paradoja-braess/)
+  
 
 
 ## Skills and Tools
 
 ### Web frontend
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+        width="36" height="36" alt="HTML5" />
 </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+        width="36" height="36" alt="CSS3" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+        width="36" height="36" alt="JavaScript" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+        width="36" height="36" alt="TypeScript" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+        width="36" height="36" alt="React" />
 </a>
 <a href="https://astro.build/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" width="36" height="36" alt="Astro" />
+    <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" width="36" height="36" alt="Astro" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+        width="36" height="36" alt="TailwindCSS" />
 </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
+        width="36" height="36" alt="Material UI" />
 </a>
 <a href="https://p5js.org/" target="_blank" rel="noreferrer">
-  <img src="https://blindedcyclops.neocities.org/p5js-icons/p5-sq-white-background.png" width="36" height="36" alt="p5.js" />
+    <img src="https://blindedcyclops.neocities.org/p5js-icons/p5-sq-white-background.png" width="36" height="36" alt="p5.js" />
 </a>
-</div>
+
 
 ### Backend and databases
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
 </a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+            width="36" height="36" alt="NodeJS" />
 </a>
 <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" />
-</a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" 
+a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+        width="36" height="36" alt="Firebase" />
 </a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg"
+        width="36" height="36" alt="Supabase" />
 </a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
+        width="36" height="36" alt="Google Cloud" />
 </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+        width="36" height="36" alt="PostgreSQL" />
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
-</div>
 
 ### Mobile Dev
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg"
+        width="36" height="36" alt="Dart" />
 </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"
+        width="36" height="36" alt="Flutter" />
 </a>
-</div>
 
 ### Data Science and Artificial Intelligence
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg"
+        width="36" height="36" alt="rlang" />
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+        width="36" height="36" alt="Python" />
 </a>
 <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/1562726?v=4" width="36" height="36" alt="D3" />
+    <img src="https://avatars.githubusercontent.com/u/1562726?v=4" width="36" height="36" alt="D3" />
 </a>
 <a href="https://leafletjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/2854298?s=200&v=4" width="36" height="36" alt="Leaflet" />
+    <img src="https://avatars.githubusercontent.com/u/2854298?s=200&v=4" width="36" height="36" alt="Leaflet" />
 </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="36" height="36" alt="scikit-learn" />
+    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="36" height="36" alt="scikit-learn
+" />
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg"
+        width="36" height="36" alt="TensorFlow" />
 </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="36" height="36" alt="LangChain" />
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4"
+        width="36" height="36" alt="LangChain" />
 </a>
-</div>
+                      
 
 ## Stats
 ### Contributions
 <a href="http://www.github.com/alex-roc">
     <img
-         src="https://github-readme-streak-stats.herokuapp.com/?user=alex-roc&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&si[...] 
-</a
+        src="https://github-readme-streak-stats.herokuapp.com/?user=alex-roc&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
