@@ -16,6 +16,7 @@ I develop software and data science projects for social and environmental purpos
 - [Thani](https://thaniconecta.app/): Web and mobile app for mental health care
 - [Ciudatos Lab](https://ciudatoslab.org/): A web platform for open data, visualizations and modeling for urban issues in Bolivia
 - [Contratos Abiertos](https://contratosabiertos-bo.org/): A web platform for open contracting data in Bolivia
+- [Yupay](https://yupaybo.app/): Platform and mobile app for financial education and personal finance
 - [PAP App](https://play.google.com/store/apps/details?id=org.labtecnosocial.pap_movil): Web and mobile app for monitoring cervical cancer in Bolivia
 - [Mujeres Constructoras](https://play.google.com/store/apps/details?id=org.latecnosocial.mujeres_constructoras): Web and mobile app to connect employers and female builders
 - [Estudios digitales en Bolivia](https://labtecnosocial.org/app-bibdigital/): Bibliographic explorer about digital social studies in Bolivia
