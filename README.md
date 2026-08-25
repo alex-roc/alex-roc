@@ -1,6 +1,6 @@
 # Alex Ojeda Copa
 
-**Software engineer and data scientist** (sociologist by training). I build open source for social
+**Software engineer and data scientist**. I build open source for social
 and environmental purposes from [Cochabamba, Bolivia](https://en.wikipedia.org/wiki/Cochabamba) —
 mostly data infrastructure that did not exist for my country until someone built it.
 
