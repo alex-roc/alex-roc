@@ -1,4 +1,4 @@
-# Software / Data / AI Engineer & Social Scientist
+# Software/AI Engineer & Data Scientist
 
 **SocialTech · CivicTech · GovTech.** Over 10 years building digital products for public, social
 and environmental problems, from [Cochabamba, Bolivia](https://en.wikipedia.org/wiki/Cochabamba)
@@ -22,7 +22,7 @@ Published, reviewed and kept up to date. Anyone can install it today.
 | **[encuestasbo](https://github.com/lab-tecnosocial/encuestasbo)** | ![R](https://img.shields.io/badge/R-package-276DC3?logo=r&logoColor=white) | R package for Bolivia's household (EH, 13 years) and employment (ECE, 40 quarters) surveys: harmonized, with weights, strata and PSUs for proper survey estimation. [Docs](https://lab-tecnosocial.github.io/encuestasbo/) |
 | **[municipios-bolivia-2024](https://github.com/lab-tecnosocial/municipios-bolivia-2024)** | ![open data](https://img.shields.io/badge/open-data-4C9A2A) | The 343 municipalities of the 2024 census in GeoJSON, TopoJSON, Shapefile, GeoPackage and CSV, with the official INE codes |
 
-## 🤖 AI and language technology
+## 🤖 AI technology
 
 - **[Species identification in Arbu](https://play.google.com/store/apps/details?id=org.labtecnosocial.arbu.android)** — Recognizes a tree species from a photo, inside the urban tree app
 - **[Government programs chatbot](https://chat-progob.labtecnosocial.org/)** — Ask and compare electoral programs in natural language
