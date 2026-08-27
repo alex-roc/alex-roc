@@ -19,16 +19,17 @@ Published, reviewed and kept up to date. Anyone can install it today.
 | **[censosbo](https://github.com/lab-tecnosocial/censosbo)** | [![CRAN](https://www.r-pkg.org/badges/version/censosbo)](https://cran.r-project.org/package=censosbo) [![downloads](https://cranlogs.r-pkg.org/badges/grand-total/censosbo)](https://cran.r-project.org/package=censosbo) | R package for the microdata of Bolivia's five population censuses (1976–2024). Parquet fetched on demand, `dplyr` through Arrow, SQL through DuckDB. [Docs](https://lab-tecnosocial.github.io/censosbo/) |
 | **[Q-CensosBo](https://github.com/lab-tecnosocial/q-censosbo)** | [![QGIS plugin](https://img.shields.io/badge/QGIS-plugin-93B023?logo=qgis&logoColor=white)](https://plugins.qgis.org/plugins/qcensosbo/) | The same census data inside QGIS: styled choropleths by department, municipality, urban block or rural community — queried remotely, nothing downloaded. QGIS 3.28 → 4.x |
 | **[zotero-agent](https://github.com/alex-roc/zotero-agent)** | [![PyPI](https://img.shields.io/pypi/v/zotero-agent?logo=pypi&logoColor=white)](https://pypi.org/project/zotero-agent/) | Full local read-write control of a Zotero library: CLI + MCP server + bridge plugin. No cloud, no API key. [Docs](https://alex-roc.github.io/zotero-agent/) |
-| **[encuestasbo](https://github.com/lab-tecnosocial/encuestasbo)** | ![R](https://img.shields.io/badge/R-package-276DC3?logo=r&logoColor=white) | R package for Bolivia's household (EH, 13 years) and employment (ECE, 40 quarters) surveys: harmonized, with weights, strata and PSUs for proper survey estimation. [Docs](https://lab-tecnosocial.github.io/encuestasbo/) |
-| **[municipios-bolivia-2024](https://github.com/lab-tecnosocial/municipios-bolivia-2024)** | ![open data](https://img.shields.io/badge/open-data-4C9A2A) | The 343 municipalities of the 2024 census in GeoJSON, TopoJSON, Shapefile, GeoPackage and CSV, with the official INE codes |
+| **[Simple Tasks](https://github.com/alex-roc/simple-tasks)** | [![Obsidian plugin](https://img.shields.io/badge/Obsidian-plugin-7C3AED?logo=obsidian&logoColor=white)](https://obsidian.md/plugins?id=simple-tasks) | Obsidian plugin for task management on the plain markdown checkboxes already in your notes: daily agenda, completion heatmap, hover actions, outline hierarchy and tag grouping. No task database, no query language |
+| **[Periodic Calendar](https://github.com/alex-roc/periodic-calendar)** | [![Obsidian plugin](https://img.shields.io/badge/Obsidian-plugin-7C3AED?logo=obsidian&logoColor=white)](https://obsidian.md/plugins?id=periodic-calendar) | Obsidian plugin: a calendar for periodic notes — daily, weekly, monthly, quarterly, semester and yearly — each day shaded by how much it holds, and extensible by other plugins through a documented API |
 
 ## 🤖 AI technology
 
 - **[Species identification in Arbu](https://play.google.com/store/apps/details?id=org.labtecnosocial.arbu.android)** — Recognizes a tree species from a photo, inside the urban tree app
 - **[Government programs chatbot](https://chat-progob.labtecnosocial.org/)** — Ask and compare electoral programs in natural language
 - **[MentorBot](https://mentorbot.labtecnosocial.org/)** — Vocational guidance and educational opportunities for students
+- **[Consejo de Llamita in Thani](https://labtecnosocial.org/consejo-de-llamita-la-nueva-funcion-de-ia-en-thani/)** — Reads a user's emotional log and turns it into advice for the day or for the last three days, inside the mental health app
 - **[Cocha Antigua](https://labtecnosocial.org/app-cocha-antigua/)** — Historical photographs of Cochabamba restored and colorized with AI, on a map
-- **SimiGPT** — Prototype of a language model for Bolivian Quechua *(in progress)*
+- **[SimiGPT](https://labtecnosocial.org/simigpt-modelo-de-lenguaje-para-el-fortalecimiento-del-quechua-boliviano/)** — Prototype of a language model for the strengthening of Bolivian Quechua *(in progress)*
 - **Temis Bot** — Legal chatbot on Bolivian legislation *(coming soon)*
 
 ## 📊 Data platforms and dashboards
