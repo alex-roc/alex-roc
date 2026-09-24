@@ -56,7 +56,7 @@ Published, reviewed and kept up to date. Anyone can install it today.
 
 ## 🗺️ Interactive maps
 
-- **[Languages of Bolivia](https://lab-tecnosocial.github.io/mapa-idiomas-censo/)** — Languages spoken, from the 2024 census
+- **[Languages of Bolivia](https://lenguas.labtecnosocial.org/)** — Languages spoken, from the 2024 census
 - **[Mining environmental liabilities](https://www.connectas.org/especiales/bolivia-pais-de-la-tierra-envenenada/)** — Map for a CONNECTAS investigation
 - **[Sounds of Cochabamba](https://lab-tecnosocial.github.io/mapa-cocha-sonidos/)** — Sound map of the city
 - **[Indigenous place names](https://lab-tecnosocial.github.io/mapa-cocha-toponimos/)** — Toponymy of Cochabamba
