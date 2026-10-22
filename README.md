@@ -6,7 +6,7 @@ and environmental problems, from [Cochabamba, Bolivia](https://en.wikipedia.org/
 social research.
 
 - 🚀 Head of [Lab TecnoSocial](https://labtecnosocial.org/) since 2018 · 40+ digital projects
-- 🎓 MSc in Software Engineering (UNIR) · Computational Social Science (UC Davis) · teaching at UMSS and UCB since 2016
+- 🎓 MSc in Software Engineering (UNIR) · Computational Social Science (UC Davis) · Taught courses across multiple universities: UMSS, UCB, UPB, and UNIFRANZ.
 - 🤝 Open to collaboration and new opportunities · remote or hybrid
 - ⚡ `#tech4good`
 
