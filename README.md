@@ -108,7 +108,7 @@ Published, reviewed and kept up to date. Anyone can install it today.
 ## 🎓 Teaching
 
 - **[Lab TecnoSocial Academy](https://cursos.labtecnosocial.org/)** — Courses on data, digital research and development
-- **Beyond chatbots** — Course on building AI agents with Pydantic AI: each participant builds and deploys a personal assistant (UNIFRANZ, 2026 · [starter template](https://github.com/alex-roc/mi-asistente))
+- **Beyond chatbots** — Course on building AI agents with Pydantic AI [starter template](https://github.com/alex-roc/mi-asistente))
 - University teaching since 2016: UMSS and UCB, on digital technologies, AI, network analysis and digital sociology
 
 **→ Full portfolio, including earlier work: [alex-roc.github.io](https://alex-roc.github.io/)**
