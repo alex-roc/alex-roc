@@ -62,7 +62,7 @@ Published, reviewed and kept up to date. Anyone can install it today.
 - **[Ciudatos Lab](https://ciudatoslab.org/)** — Open data, visualization and modeling for urban issues in Bolivia
 - **[Unsatisfied Basic Needs dashboard](https://nbi.labtecnosocial.org/)** — Poverty by department, province, municipality and indigenous territory, from the 2012 and 2024 censuses, down to urban block and rural community
 - **[STEM+ Olympics Data Platform](https://datos.olimpiadasstembolivia.org/)** — Data platform for Bolivia's STEM+ Olympics
-- **[SITDIS](https://lab-tecnosocial.github.io/sitdis/)** — Territorial information system for integral and sustainable development (with CIPCA)
+- **[SITDIS](https://sitdis.labtecnosocial.org/)** — Territorial information system for integral and sustainable development (with CIPCA)
 - **[Digital studies in Bolivia](https://labtecnosocial.org/app-bibdigital/)** — Bibliographic explorer of digital social studies
 - **[Heavy metals in the Pilcomayo basin](https://labtecnosocial.shinyapps.io/dashboard-pilcomayo/)** — Dashboard
 - **[20 years of fires in the Bolivian Amazon](https://labtecnosocial.shinyapps.io/incendios-bol/)** — Dashboard
